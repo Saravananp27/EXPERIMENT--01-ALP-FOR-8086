@@ -1,9 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : PRIYANKA A
+Name : SARAVANAN P
 
-Reg no : 212222230113
-
-Date of experiment : 12-08-2024
+Reg no : 212224230253
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
