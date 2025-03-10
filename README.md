@@ -3,6 +3,8 @@ Name : SARAVANAN P
 
 Reg no : 212224230253
 
+Date of Experiment:10.03.2025
+
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
